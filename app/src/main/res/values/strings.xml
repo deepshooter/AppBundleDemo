@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppBundleDemo</string>
+
+    <string name="feature_blue">Feature Blue</string>
+    <string name="feature_pink">Feature Pink</string>
+    <string name="could_not_download_feature_blue">Couldn\'t download feature blue !</string>
+    <string name="could_not_download_feature_pink">Couldn\'t download feature pink !</string>
+    <string name="title_featureblue">FeatureBlue</string>
+    <string name="title_featurepink">FeaturePink</string>
+
+</resources>
